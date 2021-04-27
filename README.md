@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **g.brianlucas1993@gmail.com**
 
-- 📄 Know about my experiences [resumeLink](resumeLink)
+- 📄 Know about my experiences [curriculum vitae](https://media-exp1.licdn.com/dms/document/C4E2DAQE5BDzbUNoAHw/profile-treasury-document-pdf-analyzed/0/1619566847226?e=1619654400&v=beta&t=IVdngs7okQjeW0RWpi2Oeq-nCZqBy7bPWIQBVdd3nW4)
 
 - ⚡ Fun fact **Lucas is Sacul in backwards**
 
