@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasgualampa&label=Profile%20views&color=0e75b6&style=flat" alt="lucasgualampa" /> </p>
 
-- 👨‍💻 All of my projects are available at [portafolioLink](portafolioLink)
+- 👨‍💻 All of my projects are available at [https://lucasgualampa.github.io/](https://lucasgualampa.github.io/)
 
 - 📫 How to reach me **g.brianlucas1993@gmail.com**
 
