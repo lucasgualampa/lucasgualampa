@@ -9,6 +9,8 @@
 
 - 📄 Know about my experiences [Curriculum Vitae/Latest Resume](https://lucasgualampa.github.io/resume/)
 
+- :briefcase: <a href="https://lucasgualampa.github.io/resume/" download>Download My Resume</a>
+
 - ⚡ Fun fact **Lucas is Sacul in backwards**
 
 <h3 align="left">Connect with me:</h3>
