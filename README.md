@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Gualampa</h1>
-<h3 align="center">A passionate backend developer from Argentina</h3>
+<h3 align="center">A passionate web developer from Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasgualampa&label=Profile%20views&color=0e75b6&style=flat" alt="lucasgualampa" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [Curriculum Vitae/Latest Resume](https://lucasgualampa.github.io/resume/)
 
-- :briefcase: <a href="https://github.com/lucasgualampa/lucasgualampa/raw/main/CV(ENG)-LUCAS%20GUALAMPA.pdf" download>Download My Latest Resume</a>
+- :briefcase: <a href="https://github.com/lucasgualampa/lucasgualampa/raw/main/CV(ENG)-LUCAS%20GUALAMPA.pdf" download>Download my latest Resume</a>
 
 - ⚡ Fun fact **Lucas is Sacul in backwards**
 
